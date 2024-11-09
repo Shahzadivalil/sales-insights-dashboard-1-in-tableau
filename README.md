@@ -44,3 +44,6 @@ Some future enhancements to consider include:
 Adding Monthly or Quarterly Revenue breakdowns.
 Including a Geographic Map to show revenue distribution by region.
 Adding Customer Segmentation for deeper insights.
+
+# The link for interactive dashboard:
+https://public.tableau.com/app/profile/shahzadi.valil/viz/sales1_17311853571290/Dashboard1?publish=yes
