@@ -53,7 +53,7 @@ This interactive dashboard highlights the overall performance in terms of **Tota
 
 ## 📂 Project Files
 
-- `Dashboard 1 (1).png` — Image of the complete dashboard
+- `dashboard.png` — Image of the complete dashboard
 - `README.md` — Documentation and usage guide
 
 ---
@@ -69,7 +69,7 @@ This interactive dashboard highlights the overall performance in terms of **Tota
 ## 🚀 Usage
 
 1. Clone this repository.
-2. Open the image file `Dashboard 1(1) .png` for a visual overview.
+2. Open the image file `dashboard.png` for a visual overview.
 3. Use this structure to build interactive dashboards using Tableau or Power BI with your own data.
 
 ---
