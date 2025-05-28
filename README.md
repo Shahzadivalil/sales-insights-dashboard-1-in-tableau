@@ -2,7 +2,7 @@
 
 This repository presents a sales performance dashboard visualized using Tableau (or Power BI), showcasing revenue and sales quantity trends across various Indian markets and years.
 
-![Dashboard Screenshot](Dashboard 1(1).png)
+![Dashboard Screenshot](dashboard.png)
 
 
 ---
