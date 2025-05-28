@@ -2,7 +2,7 @@
 
 This repository presents a sales performance dashboard visualized using Tableau (or Power BI), showcasing revenue and sales quantity trends across various Indian markets and years.
 
-![Dashboard Screenshot](Dashboard%201%20(1).png)
+Dashboard 1.png
 
 ---
 
@@ -68,7 +68,7 @@ This interactive dashboard highlights the overall performance in terms of **Tota
 ## 🚀 Usage
 
 1. Clone this repository.
-2. Open the image file `Dashboard 1 (1).png` for a visual overview.
+2. Open the image file `Dashboard 1 .png` for a visual overview.
 3. Use this structure to build interactive dashboards using Tableau or Power BI with your own data.
 
 ---
